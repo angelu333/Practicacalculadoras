@@ -1,0 +1,26 @@
+   # Ignorar todo
+   *
+   
+   # No ignorar archivos importantes
+   !*.cs
+   !*.sln
+   !*.csproj
+   !*.config
+   !*.json
+   !*.md
+   !*.gitignore
+   
+   # Ignorar carpetas específicas
+   bin/
+   obj/
+   .vs/
+   .vscode/
+   node_modules/
+   packages/
+   logs/
+   .cache/
+   .temp/
+   
+   # Ignorar archivos de sistema
+   .DS_Store
+   Thumbs.db
